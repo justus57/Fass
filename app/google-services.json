@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "21003932760",
+    "firebase_url": "https://fass-c80f3.firebaseio.com",
+    "project_id": "fass-c80f3",
+    "storage_bucket": "fass-c80f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21003932760:android:f73af0a3bbf1308e",
+        "android_client_info": {
+          "package_name": "fas.com.eddiejusto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21003932760-6n1d8aqlpa8thti0d369dug1j5oigj0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPY92Y49GJBZacZ8ZBqEFd7ekWTvV5Z8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21003932760-6n1d8aqlpa8thti0d369dug1j5oigj0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21003932760:android:c909cb3e22f0bc95",
+        "android_client_info": {
+          "package_name": "fas.com.eddiejusto.fass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21003932760-q0e7ismj6ou1q1qns1bannmau062o05s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fas.com.eddiejusto.fass",
+            "certificate_hash": "928d4c0b857ce2f6196fe60d2cd672c8d662dbc0"
+          }
+        },
+        {
+          "client_id": "21003932760-6n1d8aqlpa8thti0d369dug1j5oigj0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPY92Y49GJBZacZ8ZBqEFd7ekWTvV5Z8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21003932760-6n1d8aqlpa8thti0d369dug1j5oigj0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21003932760:android:cef8e83cdeef7591",
+        "android_client_info": {
+          "package_name": "fas.com.eddiejusto.foodanalysissystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21003932760-047es6kgm5v4bckvjfj7a4ueme0lahr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fas.com.eddiejusto.foodanalysissystem",
+            "certificate_hash": "928d4c0b857ce2f6196fe60d2cd672c8d662dbc0"
+          }
+        },
+        {
+          "client_id": "21003932760-6n1d8aqlpa8thti0d369dug1j5oigj0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPY92Y49GJBZacZ8ZBqEFd7ekWTvV5Z8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21003932760-6n1d8aqlpa8thti0d369dug1j5oigj0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
